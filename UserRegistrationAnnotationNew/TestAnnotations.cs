@@ -16,7 +16,7 @@ namespace UserRegistrationAnnotations
             obj.FirstName = "Lokendra";
             obj.LastName = "Yeddula";
             obj.EmailId = "abc.xyz@bl.co.in";
-            obj.PhoneNumber = "8919445458";
+            obj.MobileNumber = "+91 8919445458";
             ValidationContext context = new ValidationContext(obj, null, null);
             List<ValidationResult> result = new List<ValidationResult>();
             bool valid = Validator.TryValidateObject(obj, context, result, true);
@@ -33,7 +33,7 @@ namespace UserRegistrationAnnotations
                 Console.WriteLine("FirstName: " + obj.FirstName);
                 Console.WriteLine("LastName: " + obj.LastName);
                 Console.WriteLine("EmailId: " + obj.EmailId);
-                Console.WriteLine("PhoneNumber: " + obj.PhoneNumber);
+                Console.WriteLine("PhoneNumber: " + obj.MobileNumber);
 
             }
             Console.WriteLine("Press any key to exit");
