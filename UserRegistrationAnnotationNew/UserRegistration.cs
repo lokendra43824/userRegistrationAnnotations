@@ -19,10 +19,10 @@ namespace UserRegistrationAnnotations
         [DataType(DataType.EmailAddress)]
         [EmailAddress]
         public string EmailId { get; set; }
-        /*[Required (ErrorMessage = "phone number is required {0}")]
+        [Required (ErrorMessage = "phone number is required {0}")]
         [DataType(DataType.PhoneNumber)]
         [Phone]
-        public string PhoneNumber { get; set; }*/
+        public string PhoneNumber { get; set; }
 
     }
 }
