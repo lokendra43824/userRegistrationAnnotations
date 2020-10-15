@@ -10,3 +10,4 @@ C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegi
 C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.dll
 C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.pdb
 C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.genruntimeconfig.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.csprojAssemblyReference.cache
