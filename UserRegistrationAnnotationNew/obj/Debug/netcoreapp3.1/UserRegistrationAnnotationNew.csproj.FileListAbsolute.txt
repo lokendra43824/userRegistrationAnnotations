@@ -1,0 +1,12 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\bin\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\bin\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\bin\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\bin\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\bin\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\bin\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\UserRegistrationAnnotationNew\UserRegistrationAnnotationNew\obj\Debug\netcoreapp3.1\UserRegistrationAnnotationNew.genruntimeconfig.cache
