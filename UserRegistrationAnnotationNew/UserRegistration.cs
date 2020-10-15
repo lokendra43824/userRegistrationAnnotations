@@ -25,6 +25,11 @@ namespace UserRegistrationAnnotations
         [Required(ErrorMessage = "Mobile Number is required.")]
         [RegularExpression(@"^((\+){1}91){1}[1-9]{1}[0-9]{9})$", ErrorMessage = "Invalid Mobile Number.")]
         public string MobileNumber { get; set; }
+        [Display(Name = "Password:")]
+        [Required(ErrorMessage = "password is required.")]
+        [RegularExpression(@"^[a-zA-Z0-9]{8,}$", ErrorMessage = "Invalid password.")]
+        public string Password { get; set; }
+
 
 
     }
