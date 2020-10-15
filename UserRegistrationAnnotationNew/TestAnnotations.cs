@@ -13,7 +13,8 @@ namespace UserRegistrationAnnotations
             Console.WriteLine("User Registration Validation");
             Console.WriteLine(".............");
             UserRegistration obj = new UserRegistration();
-            obj.FirstName = "l";
+            obj.FirstName = "Lokendra";
+            obj.LastName = "Yeddula";
             ValidationContext context = new ValidationContext(obj, null, null);
             List<ValidationResult> result = new List<ValidationResult>();
             bool valid = Validator.TryValidateObject(obj, context, result, true);
@@ -28,6 +29,7 @@ namespace UserRegistrationAnnotations
             else
             {
                 Console.WriteLine("FirstName: " + obj.FirstName);
+                Console.WriteLine("LastName: " + obj.LastName);
             }
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
