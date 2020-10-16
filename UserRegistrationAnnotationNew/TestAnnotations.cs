@@ -17,7 +17,7 @@ namespace UserRegistrationAnnotations
             obj.LastName = "Yeddula";
             obj.EmailId = "abc.xyz@bl.co.in";
             obj.MobileNumber = "91 8919445458";
-            obj.Password = "abcd1234";
+            obj.Password = "Cbcd1234";
             ValidationContext context = new ValidationContext(obj, null, null);
             List<ValidationResult> result = new List<ValidationResult>();
                 bool valid = Validator.TryValidateObject(obj, context, result, true);
