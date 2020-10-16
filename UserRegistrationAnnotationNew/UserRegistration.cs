@@ -24,11 +24,11 @@ namespace UserRegistrationAnnotations
 
         [Display(Name = "Mobile Number:")]
         [Required(ErrorMessage = "Mobile Number is required.")]
-        [RegularExpression(@"(^[1-9]{1,}[0-9\\-]{0,}[ ]{1}[1-9]{1}[0-9]{9}$)", ErrorMessage = "Invalid Mobile Number.")]
+        [RegularExpression(@"(^[1-9]{1,}[0-9\\-]{0,}[ ]{1}[1-9]{1}[0-9]{9}$)")]
         public string MobileNumber { get; set; }
         [Display(Name = "Password:")]
         [Required(ErrorMessage = "password is required.")]
-        [RegularExpression(@"(^[a-zA-Z0-9!@#$%&*()-+=^]{8,}$)", ErrorMessage = "Invalid pattern")]
+        [RegularExpression(@"(^[a-zA-Z0-9!@#$%&*()-+=^]{8,}$)")]
         public string Password { get; set; }
 
     }
