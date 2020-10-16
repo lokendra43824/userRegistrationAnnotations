@@ -15,7 +15,7 @@ namespace UserRegistrationAnnotations
             UserRegistration obj = new UserRegistration();
             obj.FirstName = "Lokendra";
             obj.LastName = "Yeddula";
-            obj.EmailId = "abc.xyz@bl.co.in";
+            obj.EmailId = "abc.x123yz@bl.co.in";
             obj.MobileNumber = "91 8919445458";
             obj.Password = "C#bcd1234";
             ValidationContext context = new ValidationContext(obj, null, null);

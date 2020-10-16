@@ -19,7 +19,7 @@ namespace UserRegistrationAnnotations
         public string LastName { get; set; }
         [Required(ErrorMessage = "EmailId is required {0}")]
         [DataType(DataType.EmailAddress)]
-        [RegularExpression("^[\\w-\\+]+(\\.[\\w]+)*@[\\w-]+(\\.[\\w]+)*(\\.[a-z]{2,})$")]
+        [RegularExpression("(^[a-zA-Z0-9]{1,}([+-_.][a-zA-Z0-9]{1,}){0,}@[a-zA-Z0-9]{1,}(\\.[a-zA-Z]{1,}){0,1}(\\.[a-zA-Z]{2,})$)")]
         public string EmailId { get; set; }
 
         [Display(Name = "Mobile Number:")]
