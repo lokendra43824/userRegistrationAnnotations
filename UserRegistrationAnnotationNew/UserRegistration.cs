@@ -10,6 +10,7 @@ namespace UserRegistrationAnnotations
         [Required(ErrorMessage = "Username {0} is required")]
         [StringLength(30, MinimumLength = 3, ErrorMessage = "Firstname starts with capital letter and should have minimum 3 charcters")]
         [DataType(DataType.Text)]
+        [RegularExpression(@"^[A-Z]{1}[a-zA-Z]{2,}$")]
         public string FirstName { get; set; }
 
     }
