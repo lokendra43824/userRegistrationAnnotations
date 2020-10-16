@@ -28,7 +28,7 @@ namespace UserRegistrationAnnotations
         public string MobileNumber { get; set; }
         [Display(Name = "Password:")]
         [Required(ErrorMessage = "password is required.")]
-        [RegularExpression(@"(^(?=.*[A-Z])(?=.*[0-9])([A-Za-z0-9!@#$%&*()-+=^]){8,}$)")]
+        [RegularExpression(@"(^(?=.{8,}$)((?=.*[A-Z])(?=.*[0-9])([a-zA-Z0-9]*[!@#$^&*()-+=]{1}[a-zA-Z0-9]*))$)")]
         public string Password { get; set; }
 
     }
